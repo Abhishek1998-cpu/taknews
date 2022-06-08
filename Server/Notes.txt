@@ -1,0 +1,28 @@
+User Registration Schema
+Username : string
+Email : string
+Password: string
+Phone Number : numer
+Gender : string
+Language : string
+Marital Status : string
+Date of Birth : string
+Time of Birth : string
+
+MongoDB Project Name -  takNewsDatabase
+Database Name - taknews  
+Collection Name - taknewscollection
+Database UserName - abhishek
+Database Password - 123
+
+mongodb+srv://abhishek:<password>@cluster0.byztksj.mongodb.net/?retryWrites=true&w=majority
+
+
+6th - end
+7th - end
+8th - end
+12th - end
+13th - end
+15th - end
+18th - start
+33 - End
